@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592988076169",
+    "project_id": "vize-c292f",
+    "storage_bucket": "vize-c292f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592988076169:android:daf5c6df04f2248847ee58",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYmvLP5iW5l3San-7ZVmor6aTkVa5J7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
